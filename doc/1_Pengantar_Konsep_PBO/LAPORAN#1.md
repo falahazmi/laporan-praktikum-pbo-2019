@@ -81,18 +81,16 @@ Jawab   :
             Menirukan sifat suatu object di dunia nyata.
 
 2.  a.  Object 
-    
-         Suatu rangkaian dalam program yang terdiri dari "state" dan "behaviour". "State" adalah ciri-ciri atau atribut            dari objek tersebut dan "Behaviour" adalah perilaku yang dilakukan oleh object tersebut.
+            Suatu rangkaian dalam program yang terdiri dari "state" dan "behaviour". "State" adalah ciri-ciri atau                   atribut dari objek tersebut dan "Behaviour" adalah perilaku yang dilakukan oleh object tersebut.
    
      b.  Class
-    
-         Suatu blueprint atau cetakan untuk menciptakan suatu instant
-         dari object. class juga merupakan grup suatu object dengan kemiripan
-         attribute, behaviour dan relasi ke object lain.
-         
-         Perbedaan  :   Dimana object itu adalah gabungan dari semua class yang memiliki method tertentu seperi
-         Object :   Manusia.
-         Class  :   Manusia dapat berjalan, berlari, makan, minum, dll.
+            Suatu blueprint atau cetakan untuk menciptakan suatu instant
+            dari object. class juga merupakan grup suatu object dengan kemiripan
+            attribute, behaviour dan relasi ke object lain.
+   
+       Perbedaan  :   Dimana object itu adalah gabungan dari semua class yang memiliki method tertentu seperi
+       Object :   Manusia.
+       Class  :   Manusia dapat berjalan, berlari, makan, minum, dll.
 
 3.
 

@@ -97,6 +97,7 @@ Jawab   :
     b.  OOP menggunakan konsep UML sedangkan Pemrogramman Terstruktur menggunakan konsep DFD dan ERD.
     
     c.  Tatanan Nama
+    
         OOP -> method sedangkan Pemrogramman Terstruktur -> function.
         OOP -> object sedangkan Pemrogramman Terstruktur -> modules.
         OOP -> attribute sedangkan Pemrogramman Terstruktur -> variable.

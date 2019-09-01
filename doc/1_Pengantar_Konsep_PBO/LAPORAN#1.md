@@ -70,7 +70,7 @@ Jawab   :
 
 1.  a.  Abstraction : 
             suatu cara untuk melihat suatu object dalam bentuk yang lebih sederhana.
-         
+      
     b.  Encapsulation : 
             Pembukusan suatu data, dimaksudkan agar tidak terjadi intervensi dari program lain.
             
@@ -92,8 +92,14 @@ Jawab   :
        Object :   Manusia.
        Class  :   Manusia dapat berjalan, berlari, makan, minum, dll.
 
-3.
+3.  a.  Dari bentuk pemodelannya dimana OOP diorientasikan ke dalam bentuk Object sedangkan Pemrogramman Terstruktur             diuraikan secara ditail.
 
+    b.  OOP menggunakan konsep UML sedangkan Pemrogramman Terstruktur menggunakan konsep DFD dan ERD.
+    
+    c.  Tatanan Nama
+        OOP -> method sedangkan Pemrogramman Terstruktur -> function.
+        OOP -> object sedangkan Pemrogramman Terstruktur -> modules.
+        OOP -> attribute sedangkan Pemrogramman Terstruktur -> variable.
 4.
 
 5.

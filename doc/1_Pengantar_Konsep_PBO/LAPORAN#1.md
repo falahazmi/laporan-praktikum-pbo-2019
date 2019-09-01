@@ -50,6 +50,7 @@ Penjelasan  :
 5. Tambahkan atribut warna pada class Sepeda. 6. Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari nol? 
 
 Jawab   :   
+
 1.
 
 2.

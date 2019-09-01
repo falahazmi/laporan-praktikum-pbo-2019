@@ -68,16 +68,16 @@ Penjelasan  :
 
 Jawab   :   
 
-1.  a.  Abstraction
+1.  a.  Abstraction : 
             suatu cara untuk melihat suatu object dalam bentuk yang lebih sederhana.
          
-    b.  Encapsulation
+    b.  Encapsulation : 
             Pembukusan suatu data, dimaksudkan agar tidak terjadi intervensi dari program lain.
             
-    c.  Inheritance
+    c.  Inheritance : 
             Dimana dapat menurunkan property dan method ke program lain sehingga tidak terjadinya duplikasi.
             
-    d.  Polimorfisme 
+    d.  Polimorfisme : 
             Menirukan sifat suatu object di dunia nyata.
 
 2.  a.  Object 

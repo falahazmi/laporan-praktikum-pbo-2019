@@ -32,6 +32,20 @@ Perbedaan dari OOP dengan Pemrograman terstruktur adalah dimana program pada OOP
 
 ![Percobaan1](img/Percobaan1.PNG)
 
+Penjelasan  :   
+
+### Percobaan 2
+
+![Percobaan2](img/Percobaan2.PNG)
+
+Penjelasan  :   
+
+### Percobaan 3
+
+![Percobaan3](img/Percobaan3.PNG)
+
+Penjelasan  :   
+
 ## Pernyataan Diri
 
 Saya menyatakan isi tugas, kode program, dan laporan praktikum ini dibuat oleh saya sendiri. Saya tidak melakukan plagiasi, kecurangan, menyalin/menggandakan milik orang lain.

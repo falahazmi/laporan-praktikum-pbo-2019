@@ -23,7 +23,17 @@ Perbedaan dari OOP dengan Pemrograman terstruktur adalah dimana program pada OOP
     dari object. class juga merupakan grup suatu object dengan kemiripan
     attribute, behaviour dan relasi ke object lain.
  
-3.  
+3.  Enkapsulasi
+
+    Pembukusan suatu data, dimaksudkan agar tidak terjadi intervensi dari program lain.
+    
+4.  Inheritance 
+
+    Dimana dapat menurunkan property dan method ke program lain sehingga tidak terjadinya duplikasi.
+    
+5.  Polimorfisme 
+
+    Menirukan sifat suatu object di dunia nyata.
 
 
 ## Percobaan 
@@ -58,9 +68,31 @@ Penjelasan  :
 
 Jawab   :   
 
-1.
+1.  a.  Abstraction
+            suatu cara untuk melihat suatu object dalam bentuk yang lebih sederhana.
+         
+    b.  Encapsulation
+            Pembukusan suatu data, dimaksudkan agar tidak terjadi intervensi dari program lain.
+            
+    c.  Inheritance
+            Dimana dapat menurunkan property dan method ke program lain sehingga tidak terjadinya duplikasi.
+            
+    d.  Polimorfisme 
+            Menirukan sifat suatu object di dunia nyata.
 
-2.
+2.  a.  Object 
+    
+         Suatu rangkaian dalam program yang terdiri dari "state" dan "behaviour". "State" adalah ciri-ciri atau atribut            dari objek tersebut dan "Behaviour" adalah perilaku yang dilakukan oleh object tersebut.
+   
+     b.  Class
+    
+         Suatu blueprint atau cetakan untuk menciptakan suatu instant
+         dari object. class juga merupakan grup suatu object dengan kemiripan
+         attribute, behaviour dan relasi ke object lain.
+         
+         Perbedaan  :   Dimana object itu adalah gabungan dari semua class yang memiliki method tertentu seperi
+         Object :   Manusia.
+         Class  :   Manusia dapat berjalan, berlari, makan, minum, dll.
 
 3.
 

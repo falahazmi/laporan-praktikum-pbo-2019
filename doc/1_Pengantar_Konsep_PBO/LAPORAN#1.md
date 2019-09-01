@@ -40,11 +40,23 @@ Penjelasan  :
 
 Penjelasan  :   
 
-### Percobaan 3
+## Kesimpulan
 
-![Percobaan3](img/Percobaan3.PNG)
+## Pertanyaan
+1. Sebutkan dan jelaskan aspek-aspek yang ada pada pemrograman berorientasi objek! 
+2. Apa yang dimaksud dengan object dan apa bedanya dengan class? 
+3. Sebutkan salah satu kelebihan utama dari pemrograman berorientasi objek dibandingkan dengan pemrograman struktural! 
+4. Pada class Sepeda, terdapat state/atribut apa saja? 
+5. Tambahkan atribut warna pada class Sepeda. 6. Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari nol? 
 
-Penjelasan  :   
+Jawab   :   
+1.
+2.
+3.
+4.
+5.
+
+## Tugas
 
 ## Pernyataan Diri
 

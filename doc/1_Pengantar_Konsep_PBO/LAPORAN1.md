@@ -29,7 +29,7 @@ Perbedaan dari OOP dengan Pemrograman terstruktur adalah dimana program pada OOP
 ## Percobaan 
 
 ### Percobaan 1
-
+![Percobaan1](img/Percobaan 1.PNG)
 Di dalam percobaan 1 kita 
 
 ## Pernyataan Diri

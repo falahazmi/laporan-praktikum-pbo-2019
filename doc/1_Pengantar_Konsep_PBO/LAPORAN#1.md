@@ -32,6 +32,7 @@ Perbedaan dari OOP dengan Pemrograman terstruktur adalah dimana program pada OOP
 
 ![Percobaan1](img/Percobaan1.PNG)
 Link kode program Sepeda : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Sepeda1841720085Falaah.java)
+
 Link kode program SepedaDemo : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaDemo1841720085Falaah.java)
 
 Penjelasan  :   
@@ -40,6 +41,7 @@ Penjelasan  :
 
 ![Percobaan2](img/Percobaan2.PNG)
 Link kode program SepedaGunung : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaGunung1841720085Falaah.java)
+
 Link kode program SepedaDemo : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaDemo1841720085Falaah.java)
 
 Penjelasan  :   

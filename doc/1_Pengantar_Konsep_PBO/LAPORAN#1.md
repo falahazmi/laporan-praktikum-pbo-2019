@@ -104,8 +104,10 @@ Jawab   :
 4.  Merk, kecepatan, dan Gear.
 
 5.  
+
     ![Pertanyaan](img/Pertanyaan.PNG)
     Link kode program Sepeda : [Klik disini](../../src/1_Pengantar_Konsep_PBO/Sepeda1841720085Falaah.java)
+    
     Link kode program SepedaDemo : [Klik disini](../../src/1_Pengantar_Konsep_PBO/SepedaDemo1841720085Falaah.java)
 
 6.  Sebab, class sepeda gunung merupakan extend atau turunan dari class sepeda.

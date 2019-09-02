@@ -101,11 +101,11 @@ Jawab   :
         OOP -> method sedangkan Pemrogramman Terstruktur -> function.
         OOP -> object sedangkan Pemrogramman Terstruktur -> modules.
         OOP -> attribute sedangkan Pemrogramman Terstruktur -> variable.
-4.
+4.  Merk, kecepatan, dan Gear.
 
-5.
+5.  
 
-6.
+6.  Sebab, class sepeda gunung merupakan extend atau turunan dari class sepeda.
 
 ## Tugas
 

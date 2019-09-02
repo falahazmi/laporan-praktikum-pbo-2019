@@ -58,6 +58,8 @@ Penjelasan  :
 
 ## Kesimpulan
 
+Dari semua percobaan yang sudah saya lakukan saya mengambil kesimpulan bahwa OOP mengajarkan kita bagaimana kita bisa memanggil method yang terdapat di class induk tanpa harus merusak atau mengubah kode program dari class induk ke class lainnya. intinya di praktikum Pengantar Konsep PBO ini kita di ajarkan bagaimana cara menggunakan "extends" dengan tepat. Serta OOP Memiliki 4 pilar penting yaitu Abstraction, Encapsulation, Inheritance,Polimorfisme yang memiliki fungsi masing-masing.
+
 ## Pertanyaan
 1. Sebutkan dan jelaskan aspek-aspek yang ada pada pemrograman berorientasi objek! 
 2. Apa yang dimaksud dengan object dan apa bedanya dengan class? 
@@ -112,6 +114,14 @@ Jawab   :
 6.  Sebab, class sepeda gunung merupakan extend atau turunan dari class sepeda.
 
 ## Tugas
+
+![Tugas](img/tugas.PNG)
+
+Link kode program Kereta : [Klik disini](../../src/1_Pengantar_Konsep_PBO/Kereta1841720085Falaah.java)
+
+Link kode program Kereta Uap : [Klik disini](../../src/1_Pengantar_Konsep_PBO/KeretaUap1841720085Falaah.java)
+
+Link kode program Kereta Demo : [Klik disini](../../src/1_Pengantar_Konsep_PBO/KeretaDemo1841720085Falaah.java)
 
 ## Pernyataan Diri
 

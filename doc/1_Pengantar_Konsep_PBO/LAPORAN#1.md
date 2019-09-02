@@ -103,7 +103,8 @@ Jawab   :
         OOP -> attribute sedangkan Pemrogramman Terstruktur -> variable.
 4.  Merk, kecepatan, dan Gear.
 
-5.  ![Pertanyaan](img/Pertanyaan.PNG)
+5.  
+    ![Pertanyaan](img/Pertanyaan.PNG)
     Link kode program Sepeda : [Klik disini](../../src/1_Pengantar_Konsep_PBO/Sepeda1841720085Falaah.java)
     Link kode program SepedaDemo : [Klik disini](../../src/1_Pengantar_Konsep_PBO/SepedaDemo1841720085Falaah.java)
 

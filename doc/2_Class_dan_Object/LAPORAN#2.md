@@ -126,6 +126,7 @@ Dari ke dua percobaan tersebut saya menyimpulkan bahwa return dimana kita tidak 
 
     Link code class Demo : [Kllik disini](../../src/2_Class_dan_Object/DemoTugasBarang1841720085Falaah.java) 
 
+## Kesimpulan
 
 ## Pernyataan Diri
 

@@ -128,6 +128,10 @@ Dari ke dua percobaan tersebut saya menyimpulkan bahwa return dimana kita tidak 
 
 ## Kesimpulan
 
+
+        ABCD
+
+        
 ## Pernyataan Diri
 
 Saya menyatakan isi tugas, kode program, dan laporan praktikum ini dibuat oleh saya sendiri. Saya tidak melakukan plagiasi, kecurangan, menyalin/menggandakan milik orang lain.

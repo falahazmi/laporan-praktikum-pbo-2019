@@ -120,6 +120,8 @@ Dari ke dua percobaan tersebut saya menyimpulkan bahwa return dimana kita tidak 
     
     **harga jual = harga dasar – (diskon x harga dasar)**
 
+    
+
 
 
 

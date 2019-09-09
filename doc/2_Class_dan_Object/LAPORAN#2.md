@@ -12,9 +12,15 @@
 
 ## Ringkasan Materi
 
-### Pendahuluan
+Pada Praktikum yang sudah saya mulai memahami apa itu class, attribute, method, object, try - catch, dan UML serta mengetahui aturan-aturan apa saja yang harus diperhatikan pada pembuatan ke 5 hal tersebut. Lalu, pada praktikum ini saya bingung dengan apa yang saya coba mengapa tidak dapat di-running di OOP namun bisa di-running di Dasar Pemrograman. Seperti
 
+![Penasaran1](img/Penasaraan1.PNG)
 
+dan 
+
+![Penasaran2](img/Penasaran2.PNG)
+
+Dalam praktikum ini juga saya mulai mengerti bagaimana harus menggunaka return yang benar. Saya hanya tidak mengerti mengenai ke 2 hal diatas, yang pertama mengapa tidak bisa di running justru netBen meminta kita untuk menghapusnya dan yang kedua mengapa ada (int) didalam fungsinya.
 
 ## Percobaan 
 
@@ -128,8 +134,13 @@ Dari ke dua percobaan tersebut saya menyimpulkan bahwa return dimana kita tidak 
 
 ## Kesimpulan
 
+ Hal dapat disimpulkan dari praktikum dan juga tugas yang telah dilakukan, berupa  bahwa suatu class diagram  adalah rancangan dasar pada suatu pembuatan program. Selain pada praktikum dan juga tugas terdapat method yang dapat mengembalikan nilai yang gunanya sendiri adalah 'return' dimana kita tidak dapat menggunakannya sebagai pengidentifikasi. 'return' digunakan untuk keluar dari suatu metode, dengan atau tanpa nilai. 'return' dapat digunakan dengan metode dalam dua cara
 
-        ABCD
+ 1. Methods returning a value: Untuk metode yang menentukan jenis return, yang pernyataan return-nya harus diikuti oleh nilai return.
+ 2. Methods not returning a value : Untuk metode yang tidak mengembalikan nilai, pernyataan return dapat dilewati.
+
+Serta bagaimana kita harus benar-benar teliti mengenai penulisan dan penggunaan fungsi yang sudah dipraktikan.
+
 
 
 ## Pernyataan Diri

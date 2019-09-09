@@ -20,88 +20,86 @@
 
 ### Percobaan 1
 
-![Percobaan1](img/Percobaan1.PNG)
-Link kode program Sepeda : [Klik disini](../../src/1_Pengantar_Konsep_PBO/Sepeda1841720085Falaah.java)
+Pada percobaan pertama adalah membuat class diagram dari suatu studi kasus dan juga beberapa pertanyaan sebagai berikut :
 
-Link kode program SepedaDemo : [Klik disini](../../src/1_Pengantar_Konsep_PBO/SepedaDemo1841720085Falaah.java)
+Dalam suatu perusahaan salah satu data yang diolah adalah data karyawan. Setiap karyawan memiliki id, nama, jenis kelamin, jabatan, jabatan, dan gaji. Setiap mahasiswa juga bisa menampilkan data diri pribadi dan melihat gajinya. 
+ 
+1. Gambarkan desain class diagram dari studi kasus 1!
+2. Sebutkan Class apa saja yang bisa dibuat dari studi kasus 1!
+3. Sebutkan atribut beserta tipe datanya yang dapat diidentifikasi dari masing-masing class dari studi kasus 1!
+4. Sebutkan method-method yang sudah anda buat dari masing-masing class pada studi kasus 1
 
-Penjelasan  :   
+Jawab:
+
+1. Gambar desain class diagram Karyawan
+
+    ![Percobaan1](img/Percobaan1.PNG)
+
+2. Karyawan
+
+3. Atribut yang ada pada class diagram Karyawan antara lain :
+   
+   a. Atribut id dengan tipe data integer
+
+   b. Atribut nama dengan tipe data String
+
+   c. Atribut jenisKelamin dengan tipe data String
+
+   d. Atribut jabatan dengan tipe data String
+
+   e. Atribut gaji dengan tipe data double
+
+4. terdapat dua method yang sudah saya buat yaitu :
+   
+   a. tampilBiodata
+
+   b. tampilGaji
 
 ### Percobaan 2
 
+Pada percobaan kedua adalah membuat suatu program dengan class diagram yang sudah disediakan pada jobsheet, yaitu class diagram dari Mahasiswa yang berisi atribut nim dengan tipe data integer, nama dengan tipe data String, alamat dengan tipe data String dan juga kelas dengan tipe data String. Selain itu terdapat method pada class diagram Mahasiswa yaitu tampilBiodata.
+
 ![Percobaan2](img/Percobaan2.PNG)
-Link kode program SepedaGunung : [Klik disini](../../src/1_Pengantar_Konsep_PBO/SepedaGunung1841720085Falaah.java)
 
-Link kode program SepedaDemo : [Klik disini](../../src/1_Pengantar_Konsep_PBO/SepedaDemo1841720085Falaah.java)
+Link code class Mahasiswa : [Klik di sini](../../src/2_Class_dan_Object/Mahasiswa1841720085Falaah)
 
-Penjelasan  :   
+Link code class Mahasiswa : [Kllik disini](../../src/2_Class_dan_Object/TestMahasiswa1841720085Falaah)
+
+### Percobaan 3
+
+Pada percobaan ketiga, saya membuat class yang bernama Barang. Pada class Barang ini terdapat tiga atribut yaitu namaBarang, jenisBarang dan stok. selain atribut terdapat juga method pada class tersebut, yaitu tampilBarang dan juga tambahStok.
+
+![Percobaan3](img/Percobaan3.PNG)
+
+Link code class Barang : [Kllik disini](../../src/2_Class_dan_Object/Barang1841720085Falaah)
+
+Link code class Test Barang : [Kllik disini](../../src/2_Class_dan_Object/TestBarang1841720085Falaah)
+
+
 
 ## Kesimpulan
 
-Dari semua percobaan yang sudah saya lakukan saya mengambil kesimpulan bahwa OOP mengajarkan kita bagaimana kita bisa memanggil method yang terdapat di class induk tanpa harus merusak atau mengubah kode program dari class induk ke class lainnya. intinya di praktikum Pengantar Konsep PBO ini kita di ajarkan bagaimana cara menggunakan "extends" dengan tepat. Serta OOP Memiliki 4 pilar penting yaitu Abstraction, Encapsulation, Inheritance,Polimorfisme yang memiliki fungsi masing-masing.
-
-## Pertanyaan
-1. Sebutkan dan jelaskan aspek-aspek yang ada pada pemrograman berorientasi objek! 
-2. Apa yang dimaksud dengan object dan apa bedanya dengan class? 
-3. Sebutkan salah satu kelebihan utama dari pemrograman berorientasi objek dibandingkan dengan pemrograman struktural! 
-4. Pada class Sepeda, terdapat state/atribut apa saja? 
-5. Tambahkan atribut warna pada class Sepeda. 
-6. Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari nol? 
-
-Jawab   :   
-
-1.  a.  Abstraction : 
-            suatu cara untuk melihat suatu object dalam bentuk yang lebih sederhana.
-      
-    b.  Encapsulation : 
-            Pembukusan suatu data, dimaksudkan agar tidak terjadi intervensi dari program lain.
-            
-    c.  Inheritance : 
-            Dimana dapat menurunkan property dan method ke program lain sehingga tidak terjadinya duplikasi.
-            
-    d.  Polimorfisme : 
-            Menirukan sifat suatu object di dunia nyata.
-
-2.  a.  Object 
-            Suatu rangkaian dalam program yang terdiri dari "state" dan "behaviour". "State" adalah ciri-ciri atau                   atribut dari objek tersebut dan "Behaviour" adalah perilaku yang dilakukan oleh object tersebut.
-   
-     b.  Class
-            Suatu blueprint atau cetakan untuk menciptakan suatu instant
-            dari object. class juga merupakan grup suatu object dengan kemiripan
-            attribute, behaviour dan relasi ke object lain.
-   
-       Perbedaan  :   Dimana object itu adalah gabungan dari semua class yang memiliki method tertentu seperi
-       Object :   Manusia.
-       Class  :   Manusia dapat berjalan, berlari, makan, minum, dll.
-
-3.  a.  Dari bentuk pemodelannya dimana OOP diorientasikan ke dalam bentuk Object sedangkan Pemrogramman Terstruktur             diuraikan secara ditail.
-
-    b.  OOP menggunakan konsep UML sedangkan Pemrogramman Terstruktur menggunakan konsep DFD dan ERD.
-    
-    c.  Tatanan Nama
-    
-        OOP -> method sedangkan Pemrogramman Terstruktur -> function.
-        OOP -> object sedangkan Pemrogramman Terstruktur -> modules.
-        OOP -> attribute sedangkan Pemrogramman Terstruktur -> variable.
-4.  Merk, kecepatan, dan Gear.
-
-5.  
-    ![Pertanyaan](img/Pertanyaan.PNG)
-    Link kode program Sepeda : [Klik disini](../../src/1_Pengantar_Konsep_PBO/Sepeda1841720085Falaah.java)
-    
-    Link kode program SepedaDemo : [Klik disini](../../src/1_Pengantar_Konsep_PBO/SepedaDemo1841720085Falaah.java)
-
-6.  Sebab, class sepeda gunung merupakan extend atau turunan dari class sepeda.
+Dari ke dua percobaan tersebut saya menyimpulkan bahwa return dimana kita tidak dapat menggunakannya sebagai pengidentifikasi. Ini digunakan untuk keluar dari suatu metode, dengan atau tanpa nilai.
 
 ## Tugas
 
-![Tugas](img/tugas.PNG)
+1. Suatu toko persewaan video game salah satu yang diolah adalah peminjaman, dimana data yang dicatat ketika ada orang yang melakukan peminjaman adalah id, nama member, nama game, dan harga yang harus dibayar. Setiap peminjaman bisa menampilkan data hasil peminjaman dan harga yang harus dibayar. Buatlah class diagram pada studi kasus diatas! 
+ 
+    Penjelasan:
+  
+    a. Harga yang harus dibayar diperoleh dari lama sewa x harga.
 
-Link kode program Kereta : [Klik disini](../../src/1_Pengantar_Konsep_PBO/Kereta1841720085Falaah.java)
+    b. Diasumsikan 1x transaksi peminjaman game yang dipinjam hanya 1 game saja.
 
-Link kode program Kereta Uap : [Klik disini](../../src/1_Pengantar_Konsep_PBO/KeretaUap1841720085Falaah.java)
+    ![Tugas1](img/Tugas1.PNG)
 
-Link kode program Kereta Demo : [Klik disini](../../src/1_Pengantar_Konsep_PBO/KeretaDemo1841720085Falaah.java)
+2. Buatlah program dari class diagram yang sudah anda buat di no 1! 
+
+    ![Tugas2](img/Tugas2.PNG)
+
+    Link code class Sewa : [Kllik disini](../../src/2_Class_dan_Object/T2Sewa1841720085Falaah) 
+
+    Link code class Demo Sewa : [Kllik disini](../../src/2_Class_dan_Object/T2DemoSewa1841720085) 
 
 ## Pernyataan Diri
 

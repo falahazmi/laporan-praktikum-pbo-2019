@@ -107,7 +107,7 @@ Dari ke dua percobaan tersebut saya menyimpulkan bahwa return dimana kita tidak 
 
    Link code class Lingkaran : [Kllik disini](../../src/2_Class_dan_Object/Lingkran184172085Falaah.java) 
 
-    Link code class Test Lingkaran : [Kllik disini](../../src/2_Class_dan_Object/TestLingkaran1841720085Falaah.java) 
+   Link code class Test Lingkaran : [Kllik disini](../../src/2_Class_dan_Object/TestLingkaran1841720085Falaah.java) 
 
 
 4. Program Class diagram Barang
@@ -120,7 +120,11 @@ Dari ke dua percobaan tersebut saya menyimpulkan bahwa return dimana kita tidak 
     
     **harga jual = harga dasar – (diskon x harga dasar)**
 
+    ![Tugas4](img/Tugas4.PNG)
 
+    Link code class Barangn : [Kllik disini](../../src/2_Class_dan_Object/TugasBarang1841720085Falaah.java) 
+
+    Link code class Demo : [Kllik disini](../../src/2_Class_dan_Object/DemoTugasBarang1841720085Falaah.java) 
 
 
 ## Pernyataan Diri

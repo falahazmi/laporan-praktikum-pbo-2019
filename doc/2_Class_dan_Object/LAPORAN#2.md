@@ -95,11 +95,11 @@ Dari ke dua percobaan tersebut saya menyimpulkan bahwa return dimana kita tidak 
 
 2. Buatlah program dari class diagram yang sudah anda buat di no 1! 
 
-    ![Tugas2](img/Tugas2.PNG)
+    ![Tugas2](img/TUgas2.PNG)
 
-    Link code class Sewa : [Kllik disini](../../src/2_Class_dan_Object/T2Sewa1841720085Falaah.java) 
+    Link code class Sewa : [Kllik disini](../../src/2_Class_dan_Object/Sewa1841720085Falaah.java) 
 
-    Link code class Demo Sewa : [Kllik disini](../../src/2_Class_dan_Object/T2DemoSewa1841720085.java) 
+    Link code class Demo Sewa : [Kllik disini](../../src/2_Class_dan_Object/DemoSewa1841720085.java) 
 
 3. Program dari Class diagram Lingkaran
 
@@ -113,8 +113,16 @@ Dari ke dua percobaan tersebut saya menyimpulkan bahwa return dimana kita tidak 
 4. Program Class diagram Barang
 
    Deskripsi / Penjelasan :
+    
+    a. Nilai atribut hargaDasar dalam Rupiah dan atribut diskon dalam %
+    
+    b. Method hitungHargaJual() digunakan untuk menghitung harga jual dengan perhitungan berikut ini: 
+    
+    **harga jual = harga dasar – (diskon x harga dasar)**
 
-   
+
+
+
 ## Pernyataan Diri
 
 Saya menyatakan isi tugas, kode program, dan laporan praktikum ini dibuat oleh saya sendiri. Saya tidak melakukan plagiasi, kecurangan, menyalin/menggandakan milik orang lain.

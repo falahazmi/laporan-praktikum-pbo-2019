@@ -8,7 +8,7 @@ package Jobsheet2;
  *
  * @author ASUS
  */
-public class T2Sewa1841720085Falaah 
+public class Sewa1841720085Falaah 
 {
     public int id;
     public String nama_member;

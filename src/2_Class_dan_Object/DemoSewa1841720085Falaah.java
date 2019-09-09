@@ -8,7 +8,7 @@ package Jobsheet2;
  *
  * @author ASUS
  */
-public class DemoSewa1841720085 
+public class DemoSewa1841720085Falaah
 {
     /**
      * @param args the command line arguments

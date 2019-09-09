@@ -99,7 +99,7 @@ Dari ke dua percobaan tersebut saya menyimpulkan bahwa return dimana kita tidak 
 
     Link code class Sewa : [Kllik disini](../../src/2_Class_dan_Object/Sewa1841720085Falaah.java) 
 
-    Link code class Demo Sewa : [Kllik disini](../../src/2_Class_dan_Object/DemoSewa1841720085.java) 
+    Link code class Demo Sewa : [Kllik disini](../../src/2_Class_dan_Object/DemoSewa1841720085Falaah.java) 
 
 3. Program dari Class diagram Lingkaran
 

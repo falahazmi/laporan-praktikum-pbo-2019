@@ -61,9 +61,9 @@ Pada percobaan kedua adalah membuat suatu program dengan class diagram yang suda
 
 ![Percobaan2](img/Percobaan2.PNG)
 
-Link code class Mahasiswa : [Klik di sini](../../src/2_Class_dan_Object/Mahasiswa1841720085Falaah)
+Link code class Mahasiswa : [Klik di sini](../../src/2_Class_dan_Object/Mahasiswa1841720085Falaah.java)
 
-Link code class Mahasiswa : [Kllik disini](../../src/2_Class_dan_Object/TestMahasiswa1841720085Falaah)
+Link code class Mahasiswa : [Kllik disini](../../src/2_Class_dan_Object/TestMahasiswa1841720085Falaah.java)
 
 ### Percobaan 3
 
@@ -71,9 +71,9 @@ Pada percobaan ketiga, saya membuat class yang bernama Barang. Pada class Barang
 
 ![Percobaan3](img/Percobaan3.PNG)
 
-Link code class Barang : [Kllik disini](../../src/2_Class_dan_Object/Barang1841720085Falaah)
+Link code class Barang : [Kllik disini](../../src/2_Class_dan_Object/Barang1841720085Falaah.java)
 
-Link code class Test Barang : [Kllik disini](../../src/2_Class_dan_Object/TestBarang1841720085Falaah)
+Link code class Test Barang : [Kllik disini](../../src/2_Class_dan_Object/TestBarang1841720085Falaah.java)
 
 
 
@@ -97,9 +97,9 @@ Dari ke dua percobaan tersebut saya menyimpulkan bahwa return dimana kita tidak 
 
     ![Tugas2](img/Tugas2.PNG)
 
-    Link code class Sewa : [Kllik disini](../../src/2_Class_dan_Object/T2Sewa1841720085Falaah) 
+    Link code class Sewa : [Kllik disini](../../src/2_Class_dan_Object/T2Sewa1841720085Falaah.java) 
 
-    Link code class Demo Sewa : [Kllik disini](../../src/2_Class_dan_Object/T2DemoSewa1841720085) 
+    Link code class Demo Sewa : [Kllik disini](../../src/2_Class_dan_Object/T2DemoSewa1841720085.java) 
 
 ## Pernyataan Diri
 

@@ -95,7 +95,7 @@ Dari ke dua percobaan tersebut saya menyimpulkan bahwa return dimana kita tidak 
 
 2. Buatlah program dari class diagram yang sudah anda buat di no 1! 
 
-    ![Tugas2](img/Tugas2.PNG)
+    ![Tugas2](img/TUgas2.PNG)
 
     Link code class Sewa : [Kllik disini](../../src/2_Class_dan_Object/T2Sewa1841720085Falaah.java) 
 

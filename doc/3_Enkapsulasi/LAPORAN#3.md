@@ -281,17 +281,6 @@ Dan bagaimana kita membuat UML serta mengatikan UML tersebut hingga terbentuk me
 
     Link code class Demo : [Kllik disini](../../src/2_Class_dan_Object/DemoTugasBarang1841720085Falaah.java) 
 
-## Kesimpulan
-
- Hal dapat disimpulkan dari praktikum dan juga tugas yang telah dilakukan, berupa  bahwa suatu class diagram  adalah rancangan dasar pada suatu pembuatan program. Selain pada praktikum dan juga tugas terdapat method yang dapat mengembalikan nilai yang gunanya sendiri adalah 'return' dimana kita tidak dapat menggunakannya sebagai pengidentifikasi. 'return' digunakan untuk keluar dari suatu metode, dengan atau tanpa nilai. 'return' dapat digunakan dengan metode dalam dua cara
-
- 1. Methods returning a value: Untuk metode yang menentukan jenis return, yang pernyataan return-nya harus diikuti oleh nilai return.
- 2. Methods not returning a value : Untuk metode yang tidak mengembalikan nilai, pernyataan return dapat dilewati.
-
-Serta bagaimana kita harus benar-benar teliti mengenai penulisan dan penggunaan fungsi yang sudah dipraktikan.
-
-
-
 ## Pernyataan Diri
 
 Saya menyatakan isi tugas, kode program, dan laporan praktikum ini dibuat oleh saya sendiri. Saya tidak melakukan plagiasi, kecurangan, menyalin/menggandakan milik orang lain.

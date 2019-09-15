@@ -14,7 +14,7 @@
 
 Pada Praktikum yang sudah saya mulai memahami apa itu class, attribute, method, object, try - catch, dan UML serta mengetahui aturan-aturan apa saja yang harus diperhatikan pada pembuatan ke 5 hal tersebut. Lalu, pada praktikum ini saya bingung dengan apa yang saya coba mengapa tidak dapat di-running di OOP namun bisa di-running di Dasar Pemrograman. Seperti
 
-![Penasaran1](img/Penasaraan1.PNG)
+![Penasaraan1](img/Penasaraan1.png)
 
 dan 
 

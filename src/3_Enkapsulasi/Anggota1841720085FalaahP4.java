@@ -35,11 +35,11 @@ public class Anggota1841720085FalaahP4 {
         return simpanan;
     }
 
-    public void setor(float uang) {
+    public void setorFalaah(float uang) {
         simpanan += uang;
     }
 
-    public void pinjam(float uang) {
+    public void pinjamFalaah(float uang) {
         simpanan -= uang;
     }
 }

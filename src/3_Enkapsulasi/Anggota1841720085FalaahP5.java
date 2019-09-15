@@ -9,38 +9,44 @@ package koperasigettersetter;
  *
  * @author ASUS
  */
-public class Anggota1841720085Falaah 
-{
+public class Anggota1841720085FalaahP5 {
+
     private String nama;
     private String alamat;
     private float simpanan;
     
-    public void setNamaFalaah(String nama)
+    Anggota1841720085FalaahP5(String nama, String alamat)
     {
         this.nama = nama;
+        this.alamat = alamat;
+        this.simpanan = 0;
     }
-    public void setAlamatFalaah(String alamat)
-    {
+
+    public void setNamaFalaah(String nama) {
+        this.nama = nama;
+    }
+
+    public void setAlamatFalaah(String alamat) {
         this.alamat = alamat;
     }
-    public String getNamaFalaah()
-    {
+
+    public String getNamaFalaah() {
         return nama;
     }
-    public String getAlamat()
-    {
+
+    public String getAlamat() {
         return alamat;
     }
-    public float getSimpananFalaah()
-    {
+
+    public float getSimpananFalaah() {
         return simpanan;
     }
-    public void setorFalaah(float uang)
-    {
+
+    public void setorFalaahFalaah(float uang) {
         simpanan += uang;
     }
-    public void pinjamFalaah(float uang)
-    {
+
+    public void pinjamFalaah(float uang) {
         simpanan -= uang;
     }
 }

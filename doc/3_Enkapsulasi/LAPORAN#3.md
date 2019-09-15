@@ -13,6 +13,8 @@ Setelah melakukan percobaan pada modul ini, mahasiswa memahami konsep:
 
 ## Ringkasan Materi
 
+
+
 ## Percobaan 
 
 ### Percobaan 1 - Enkapsulasi 
@@ -158,13 +160,81 @@ Dapat dilihat pada hasil percobaan diatas, untuk mengubah simpanan tidak dilakuk
 
 Link code class Test Anggota : [Kllik disini](../../src/3_Enkapsulasi/Anggota1841720085FalaahP4.java)
 
-Link code class Test Anggota : [Kllik disini](../../src/3_Enkapsulasi/KoperasiDemo1841720085FalaahP4.java)
+Link code class Test Koperasi : [Kllik disini](../../src/3_Enkapsulasi/KoperasiDemo1841720085FalaahP4.java)
 
 Dapat dilihat hasil running program, ketika dilakukan pemanggilan method getNama() hasilnya hal ini terjadi  karena atribut nama belum diset nilai defaultnya. Hal ini dapat ditangani dengan membuat kontruktor. 
 
+3. Ubah class Anggota menjadi seperti berikut 
+
+![a4](img/a4.PNG)
+
+Pada class Anggota dibuat kontruktor dengan access modifier default yang memiliki 2 parameter nama dan alamat. Dan didalam konstruktor tersebut dipastikan nilai simpanan untuk pertama kali adalah Rp. 0. 
+
+4. Selanjutnya ubah class KoperasiDemo sebagai berikut 
+
+![a5](img/a5.PNG)
+
+5. Hasil dari program tersebut adalah sebagai berikut
+
+![percobaan5](img/percobaan5.PNG)
+
+Link code class Test Anggota : [Kllik disini](../../src/3_Enkapsulasi/Anggota1841720085FalaahP5.java)
+
+Link code class Test Koperasi : [Kllik disini](../../src/3_Enkapsulasi/KoperasiDemo1841720085FalaahP5.java)
+
+Setelah menambah konstruktor pada class Anggoata maka atribut nama dan alamat secara otomatis harus diset terlebih dahulu dengan melakukan passing parameter jika melakukan instansiasi class Anggota. Hal ini biasa dilakukan untuk atribut yang membutuhkan nilai yang spesifik. Jika tidak membutuhkan nilai spesifik dalam konstruktor tidak perlu parameter. Contohnya simpanan untuk anggota baru diset 0, maka simpanan tidak perlu untuk dijadikan parameter pada konstruktor. 
+
+#### Pertanyaan – Percobaan 3 dan 4 
+
+1. Apa yang dimaksud getter dan setter?
+
+2. Apa kegunaan dari method getSimpanan()?
+
+3. Method apa yang digunakan untk menambah saldo? 
+
+4. Apa yand dimaksud konstruktor? 
+
+5. Sebutkan aturan dalam membuat konstruktor? 
+
+6. Apakah boleh konstruktor bertipe private? 
+
+7. Kapan menggunakan parameter dengan passsing parameter? 
+
+8. Apa perbedaan atribut class dan instansiasi atribut? 
+
+9. Apa perbedaan class method dan instansiasi method?
+
+#### Jawab
+
+1.	
+- Method setter tidak memiliki nilai kembalian void (kosong). Karena tugasnya hanya untuk mengisi data ke dalam atribut.
+- Method getter memiliki nilai kembalian sesuai dengan tipe data yang akan diambil.
+
+2.	Untuk mendapatkan nilai dari atribut simpanan/
+
+3.	Setor()/
+
+4.	Method yang namanya sama persis dengan nama class-nya. Constructor sendiri berfungsi untuk memberikan nilai awal pada sebuah class ketika class tersebut dibuat dalam bentuk objek pada class lain.
+
+5.	
+- Suatu Constructor bisa memiliki acces modifier private
+- Consturctor default akan memiliki acces modifier yang sama dengan classnya/
+
+6.	Boleh
+
+7.	Digunakan saat nilai default atribut pada pembuatan objek memiliki nilai tertentu.
+
+8.	Atribute dimiliki oleh suatu class dan bersifat private, sedangkan instansiasi atribut adalah pengisian nilai awal pada atribut pada suatu objek yg baru dibuat.
+
+9.	Class method adalah method yg berada pada suatu class yg menyatakan hal yg bisa dilakukan seperti menghitung dll, sedangkan instansiasi yaitu method yg memberi nilai awal pada suatu atribut.
+
 ## Kesimpulan
 
-Dari ke dua percobaan tersebut saya menyimpulkan bahwa return dimana kita tidak dapat menggunakannya sebagai pengidentifikasi. Ini digunakan untuk keluar dari suatu metode, dengan atau tanpa nilai.
+Dari semua percobaan yang sudah saya lakukan saya mengambil kesimpulan bahwa modifier private adalah modifier yang melarang method atau property yang menggunakannya di akses oleh class lain atau di luar class yang mengaksesnya. Serta modifier public adalah modifier yang jika sebuah method atau property menggunakannya bisa diakses baik diluar atau didalam class yang mengaksesnya.
+
+Begitu juga maksud dari Enkapsulasi bahwa metode ini mengatur struktur pada class dengan bertujuan menentukan hak akses ataupun modifier yang akan digunakan pada method atau property.
+
+Dan bagaimana kita membuat UML serta mengatikan UML tersebut hingga terbentuk menjadi sebuah code untuk dijadikan sebuah program.
 
 ## Tugas
 

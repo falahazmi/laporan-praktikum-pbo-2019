@@ -238,48 +238,71 @@ Dan bagaimana kita membuat UML serta mengatikan UML tersebut hingga terbentuk me
 
 ## Tugas
 
-1. Suatu toko persewaan video game salah satu yang diolah adalah peminjaman, dimana data yang dicatat ketika ada orang yang melakukan peminjaman adalah id, nama member, nama game, dan harga yang harus dibayar. Setiap peminjaman bisa menampilkan data hasil peminjaman dan harga yang harus dibayar. Buatlah class diagram pada studi kasus diatas! 
- 
-    Penjelasan:
-  
-    a. Harga yang harus dibayar diperoleh dari lama sewa x harga.
+### 1. Cobalah program dibawah ini dan tuliskan hasil outputnya
 
-    b. Diasumsikan 1x transaksi peminjaman game yang dipinjam hanya 1 game saja.
+![a6](img/a6.PNG)  ![a7](img/a7.PNG)
 
-    ![Tugas1](img/Tugas1.PNG)
+#### Jawab
 
-2. Buatlah program dari class diagram yang sudah anda buat di no 1! 
+![tugas1](img/tugas1.PNG)
 
-    ![Tugas2](img/TUgas2.PNG)
+Link code class Encap Demo : [Kllik disini](../../src/3_Enkapsulasi/EncapDemo1841720085Falaah.java)
 
-    Link code class Sewa : [Kllik disini](../../src/3_Enkapsulasi/Sewa1841720085Falaah.java) 
+Link code class Encap Test : [Kllik disini](../../src/3_Enkapsulasi/EncapTest1841720085Falaah.java)
 
-    Link code class Demo Sewa : [Kllik disini](../../src/3_Enkapsulasi/DemoSewa1841720085Falaah.java) 
+### 2. Pada program diatas, pada class EncapTest kita mengeset age dengan nilai 35, namun pada saat ditampilkan ke layar nilainya 30, jelaskan mengapa. 
 
-3. Program dari Class diagram Lingkaran
+#### Jawab
 
-   ![Tugas3](img/Tugas3.PNG)
+Karena, pada method setAgeFalaah bila kita menginputkan nilai/value diatas 30 maka age = 30 yang mengartikan bahwa newAge yang diatas 30 akan tercetak = 30.
 
-   Link code class Lingkaran : [Kllik disini](../../src/2_Class_dan_Object/Lingkran184172085Falaah.java) 
+### 3. Ubah program diatas agar atribut age dapat diberi nilai maksimal 30 dan minimal 18. 
 
-   Link code class Test Lingkaran : [Kllik disini](../../src/2_Class_dan_Object/TestLingkaran1841720085Falaah.java) 
+#### Jawab
 
+![tugas3](img/tugas3.PNG)
 
-4. Program Class diagram Barang
+Link code class Encap Demo : [Kllik disini](../../src/3_Enkapsulasi/EncapDemo1841720085FalaahT3.java)
 
-   Deskripsi / Penjelasan :
-    
-    a. Nilai atribut hargaDasar dalam Rupiah dan atribut diskon dalam %
-    
-    b. Method hitungHargaJual() digunakan untuk menghitung harga jual dengan perhitungan berikut ini: 
-    
-    **harga jual = harga dasar – (diskon x harga dasar)**
+Link code class Encap Test : [Kllik disini](../../src/3_Enkapsulasi/EncapTest1841720085FalaahT3.java)
 
-    ![Tugas4](img/Tugas4.PNG)
+### 4. Pada sebuah sistem informasi koperasi simpan pinjam, terdapat class Anggota yang memiliki atribut antara lain nomor KTP, nama, limit peminjaman, dan jumlah pinjaman. Anggota dapat meminjam uang dengan batas limit peminjaman yang ditentukan. Anggota juga dapat mengangsur pinjaman. Ketika Anggota tersebut mengangsur pinjaman, maka jumlah pinjaman akan berkurang sesuai dengan nominal yang diangsur. Buatlah class Anggota tersebut, berikan atribut, method dan konstruktor sesuai dengan kebutuhan. Uji dengan TestKoperasi berikut ini untuk memeriksa apakah class Anggota yang anda buat telah sesuai dengan yang diharapkan.
 
-    Link code class Barangn : [Kllik disini](../../src/2_Class_dan_Object/TugasBarang1841720085Falaah.java) 
+![a8](img/a8.PNG)
 
-    Link code class Demo : [Kllik disini](../../src/2_Class_dan_Object/DemoTugasBarang1841720085Falaah.java) 
+Hasil yang diharapkan: 
+
+![a9](img/a9.PNG)
+
+#### Jawab
+
+![tugas4](img/tugas4.PNG)
+
+Link code class Anggota : [Kllik disini](../../src/3_Enkapsulasi/Anggota1841720085FalaahT4.java)
+
+Link code class Test Koperasi : [Kllik disini](../../src/3_Enkapsulasi/TestKoperasi1841720085FalaahT4.java)
+
+### 5. Modifikasi soal no. 4 agar nominal yang dapat diangsur minimal adalah 10% dari jumlah pinjaman saat ini. Jika mengangsur kurang dari itu, maka muncul peringatan “Maaf, angsuran harus 10% dari jumlah pinjaman”. 
+
+#### Jawab
+
+![tugas5](img/tugas5.PNG)
+
+Link code class Anggota : [Kllik disini](../../src/3_Enkapsulasi/Anggota1841720085FalaahT5.java)
+
+Link code class Test Koperasi : [Kllik disini](../../src/3_Enkapsulasi/TestKoperasi1841720085FalaahT5.java)
+
+### 6. Modifikasi class TestKoperasi, agar jumlah pinjaman dan angsuran dapat menerima input dari console. 
+
+#### Jawab
+
+![tugas6](img/tugas6.PNG)
+
+Link code class Anggota : [Kllik disini](../../src/3_Enkapsulasi/Anggota1841720085FalaahT6.java)
+
+Link code class Test Koperasi : [Kllik disini](../../src/3_Enkapsulasi/TestKoperasi1841720085FalaahT6.java)
+
+Ini adalah Link percobaan saya yang menggunakan switch case : [Kllik disini](../../src/3_Enkapsulasi/TestKoperasiCoba1841720085Falaah.java)
 
 ## Pernyataan Diri
 

@@ -10,7 +10,7 @@ Setelah menempuh pokok bahasan ini, mahasiswa mampu:
 
 Pada bagian tugas saya hanya kebingunan mengapa untuk mendeklarasikan kode kamar apakah perlu membuat class Hotel1? Sebab saya sudah mencoba agar program tersebut berjalan namun hasilnya sama saja
 
-![penasaran](img/Penasaraan.png)
+![Penasaran](img/Penasaraan.png)
 
 ## Percobaan
 

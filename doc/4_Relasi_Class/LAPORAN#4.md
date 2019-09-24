@@ -8,8 +8,9 @@ Setelah menempuh pokok bahasan ini, mahasiswa mampu:
 
 ## Ringkasan Materi
 
-Pada praktikum ini saya mengalami kesulitan pada pehaman saya terhadap suatu relasi class dan juga tipe data menggunakan nama class.
+Pada bagian tugas saya hanya kebingunan mengapa untuk mendeklarasikan kode kamar apakah perlu membuat class Hotel1? Sebab saya sudah mencoba agar program tersebut berjalan namun hasilnya sama saja
 
+![penasaran](img/Penasaraan.PNG)
 
 ## Percobaan
 
@@ -19,11 +20,11 @@ Pada percobaan pertama saya membuat dua buah class bernama Processor1841720085Fa
 
 ![contoh screenshot](img/P1.PNG)
 
-Contoh link kode program pada class Processor1841720085Falaah.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/P1/Processor1841720085Falaah.java)
+Contoh link kode program pada class Processor1841720085Falaah.java : [Klik disini](../../src/4_Relasi_Class/P1/Processor1841720085Falaah.java)
 
-Contoh link kode program pada class Laptop1841720085Falaah.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/P1/Laptop1841720085Falaah.java)
+Contoh link kode program pada class Laptop1841720085Falaah.java : [Klik disini](../../src/4_Relasi_Class/P1/Laptop1841720085Falaah.java)
 
-Contoh link kode program pada main class MainPercobaan1.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/P1/MainPercobaan1.java)
+Contoh link kode program pada main class MainPercobaan1.java : [Klik disini](../../src/4_Relasi_Class/P1/MainPercobaan1.java)
 
 
 ### Pertanyaan
@@ -34,13 +35,14 @@ Berdasarkan percobaan 1, jawablah pertanyaan‑pertanyaan yang terkait:
 
     Jawab:
 
-    Kegunaan dari method setter adalah mengambil nilai dari atribut yang ada pada main class sedangkan kegunaan method getter adalah untuk mengembalikan atau menampilkan nilai dari class yang sebelumnya telah mengambil nilai dari atribut main class.
+    Kegunaan dari method Setter adalah mengambil nilai dari atribut yang ada pada main class dan kegunaan method getter adalah untuk mengembalikan atau menampilkan nilai dari class yang sebelumnya telah mengambil nilai dari atribut main class.
 
 2. Di dalam class Processor dan class Laptop1841720085Falaah, masing‑masing terdapat konstruktor default dan konstruktor berparameter. Bagaimanakah beda penggunaan dari kedua jenis konstruktor tersebut ?
 
     Jawab:
 
-    Kegunaan dari kedua konstruktor tersebut dari apa yang saya ketahui setelah mengerjakan percobaan pertama adalah konstruktor default digunakan saat melakukan inisialisasi objek apabila pada konstruktor default maka yang akan di inisialisasi adalah semua objek yang ada pada class, sedangkan konstruktor berparameter digunakan saat melakukan inisialisasi pada suatu objek dengan ketentuan tertentu dimana hanya beberapa objek saja yang akan di inisialisasikan.
+    Kegunaan dari kedua konstruktor  adalah jika konstruktor default digunakan pada saat melakukan inisialisasi objek maka yang di inisialisasi adalah semua objek yang ada pada class.
+    Sedangkan konstruktor berparameter digunakan pada saat melakukan inisialisasi  objek dengan ketentuan tertentu yang hanya beberapa objek saja yang akan di inisialisasikan.
 
 3. Perhatikan class Laptop1841720085Falaah, di antara 2 atribut yang dimiliki (merk dan proc), atribut manakah yang bertipe object ?
 
@@ -66,6 +68,7 @@ Berdasarkan percobaan 1, jawablah pertanyaan‑pertanyaan yang terkait:
     Fungsi dari sintaks infoFalaah.info() adalah digunakan untuk memanggil method infoFalaah() yang ada pada class Processor1841720085Falaah. 
 
 6. Pada class MainPercobaan1, terdapat baris kode: Laptop1841720085Falaah l = new Laptop1841720085Falaah("Thinkpad", p);. Apakah p tersebut ? Dan apakah yang terjadi jika baris kode tersebut diubah menjadi: 
+
 Laptop1841720085Falaah l = new Laptop1841720085Falaah("Thinkpad", new Processor("Intel i5", 3)); Bagaimanakah hasil program saat dijalankan, apakah ada perubahan ?
 
     Jawab:
@@ -74,7 +77,7 @@ Laptop1841720085Falaah l = new Laptop1841720085Falaah("Thinkpad", new Processor(
     
         Laptop1841720085Falaah l = new Laptop1841720085Falaah("Thinkpad", p);
 
-    memiliki fungsi yaitu untuk memasukkan inputan pada konstruktor Processor1841720085Falaah kedalam konstruktor Laptop1841720085Falaah dengan memasukkan inisialisasinya, jika baris diubah menjadi
+    memiliki fungsi : untuk  menginputakan pada  konstruktor Processor1841720085Falaah kedalam konstruktor Laptop1841720085Falaah dengan melakukan inisialisasinya, jika baris diubah menjadi
 
         Laptop1841720085Falaah l = new Laptop1841720085Falaah("Thinkpad", new Processor("Intel i5", 3));
 
@@ -86,13 +89,13 @@ Pada percobaan kedua yang akan saya lakukan adalah membuat tiga buah class dan s
 
 ![contoh screenshot](img/P2.PNG)
 
-Contoh link kode program pada class Mobil1841720085Falaah.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/P2/Mobil1841720085Falaah.java)
+Contoh link kode program pada class Mobil1841720085Falaah.java : [Klik disini](../../src/4_Relasi_Class/P2/Mobil1841720085Falaah.java)
 
-Contoh link kode program pada class Sopir1841720085Falaah.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/P2/Sopir1841720085Falaah.java)
+Contoh link kode program pada class Sopir1841720085Falaah.java : [Klik disini](../../src/4_Relasi_Class/P2/Sopir1841720085Falaah.java)
 
-Contoh link kode program pada class Pelanggan1841720085Falaah.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/P2/Pelanggan1841720085Falaah.java)
+Contoh link kode program pada class Pelanggan1841720085Falaah.java : [Klik disini](../../src/4_Relasi_Class/P2/Pelanggan1841720085Falaah.java)
 
-Contoh link kode program pada main class MainPercobaan2.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/P2/MainPercobaan2.java)
+Contoh link kode program pada main class MainPercobaan2.java : [Klik disini](../../src/4_Relasi_Class/P2/MainPercobaan2.java)
 
 
 ### Pertanyaan
@@ -148,11 +151,11 @@ Pada percobaan ketiga ini saya membuat dua buah class yang bernama Pegawai184172
 
 ![contoh screenshot](img/P3.PNG)
 
-Contoh link kode program pada class Pegawai1841720085Falaah.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/P3/Pegawai1841720085Falaah.java)
+Contoh link kode program pada class Pegawai1841720085Falaah.java : [Klik disini](../../src/4_Relasi_Class/P3/Pegawai1841720085Falaah.java)
 
-Contoh link kode program pada class KeretaApi1841720085Falaah.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/P3/KeretaApi1841720085Falaah.java)
+Contoh link kode program pada class KeretaApi1841720085Falaah.java : [Klik disini](../../src/4_Relasi_Class/P3/KeretaApi1841720085Falaah.java)
 
-Contoh link kode program pada main class MainPercobaan3.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/P3/MainPercobaan3.java)
+Contoh link kode program pada main class MainPercobaan3.java : [Klik disini](../../src/4_Relasi_Class/P3/MainPercobaan3.java)
 
 
 ### Pertanyaan
@@ -195,13 +198,13 @@ Pada percobaan keempat ini saya membuat tiga buah class dan satu buah main class
 
 ![contoh screenshot](img/P4.PNG)
 
-Contoh link kode program pada class Penumpang1841720085Falaah.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/P4/Penumpang1841720085Falaah.java)
+Contoh link kode program pada class Penumpang1841720085Falaah.java : [Klik disini](../../src/4_Relasi_Class/P4/Penumpang1841720085Falaah.java)
 
-Contoh link kode program pada class Kursi1841720085Falaah.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/P4/Kursi1841720085Falaah.java)
+Contoh link kode program pada class Kursi1841720085Falaah.java : [Klik disini](../../src/4_Relasi_Class/P4/Kursi1841720085Falaah.java)
 
-Contoh link kode program pada class Gerbong1841720085Falaah.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/P4/Gerbong1841720085Falaah.java)
+Contoh link kode program pada class Gerbong1841720085Falaah.java : [Klik disini](../../src/4_Relasi_Class/P4/Gerbong1841720085Falaah.java)
 
-Contoh link kode program pada class main MainPercobaan4.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/P4/MainPercobaan4.java)
+Contoh link kode program pada class main MainPercobaan4.java : [Klik disini](../../src/4_Relasi_Class/P4/MainPercobaan4.java)
 
 
 ### Pertanyaan
@@ -247,22 +250,19 @@ Buatlah sebuah studi kasus, rancang dengan class diagram, kemudian implementasik
 
 ![contoh screenshot](img/Tugas.PNG)
 
-Contoh link kode program pada class Kamar1841720085Falaah.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Tugas/Kamar1841720085Falaah.java)
+Contoh link kode program pada class Kamar1841720085Falaah.java : [Klik disini](../../src/4_Relasi_Class/Tugas/Kamar1841720085Falaah.java)
 
-Contoh link kode program pada class Pegawai1841720085Falaah.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Tugas/Pegawai1841720085Falaah.java)
+Contoh link kode program pada class Pegawai1841720085Falaah.java : [Klik disini](../../src/4_Relasi_Class/Tugas/Pegawai1841720085Falaah.java)
 
-Contoh link kode program pada class Pelanggan1841720085Falaah.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Tugas/Pelanggan1841720085Falaah.java)
+Contoh link kode program pada class Pelanggan1841720085Falaah.java : [Klik disini](../../src/4_Relasi_Class/Tugas/Pelanggan1841720085Falaah.java)
 
-Contoh link kode program pada class Hotel1841720085Falaah.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Tugas/Hotel1841720085Falaah.java)
+Contoh link kode program pada class Hotel1841720085Falaah.java : [Klik disini](../../src/4_Relasi_Class/Tugas/Hotel1841720085Falaah.java)
 
-Contoh link kode program pada main class MainTugas1841720085Falaah.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Tugas/MainTugas1841720085Falaah.java)
+Contoh link kode program pada main class MainTugas1841720085Falaah.java : [Klik disini](../../src/4_Relasi_Class/Tugas/MainTugas1841720085Falaah.java)
 
 ## Kesimpulan
 
 Hal yang dapat saya simpulkan dari praktikum dan juga tugas yang telah dilakukan adalah dalam melaukakan suatu relasi kelas adalah dimana kita terlebih dahulu memperhatikan serta menentukan class diagram sebelum membuat sebuah program, karena class diagram merupakan dasar dalam perancangan atau pembuatan sebuah program.
-
-
-harus diperhatikan terlebih dahulu class diagram karena class diagram yang merupakan dasar dalam pembuatan suatu program.
 
 ## Pernyataan Diri
 
@@ -272,4 +272,4 @@ Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektua
 
 Ttd,
 
-***Mukhammad Falaah***
+***Mukhammad Falaah Azmi***

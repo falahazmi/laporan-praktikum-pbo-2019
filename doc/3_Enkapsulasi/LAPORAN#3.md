@@ -13,7 +13,7 @@ Setelah melakukan percobaan pada modul ini, mahasiswa memahami konsep:
 
 ## Ringkasan Materi
 
-
+Saya mengalami kesusahan pada saat menentukan kapan dan mengapa kita menggunakan sebuah Akses Modifier untuk program kita.  
 
 ## Percobaan 
 
@@ -303,6 +303,7 @@ Link code class Anggota : [Kllik disini](../../src/3_Enkapsulasi/Anggota18417200
 Link code class Test Koperasi : [Kllik disini](../../src/3_Enkapsulasi/TestKoperasi1841720085FalaahT6.java)
 
 Ini adalah Link percobaan saya yang menggunakan switch case : [Kllik disini](../../src/3_Enkapsulasi/TestKoperasiCoba1841720085Falaah.java)
+
 
 ## Pernyataan Diri
 

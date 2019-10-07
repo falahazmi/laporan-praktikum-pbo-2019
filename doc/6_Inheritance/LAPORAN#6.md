@@ -17,15 +17,19 @@ Setelah menempuh pokok bahasan ini, mahasiswa mampu:
 ### Percobaan 1 (extends)
 
 1. Buatlah sebuah class parent/superclass dengan nama ClassA.java
+
 ![screenshot](img/Percobaan1/1.PNG)
 
 2. Buatlah sebuah class anak/subclass dengan nama ClassB.java
+
 ![screenshot](img/Percobaan1/2.PNG)
 
 3. Buatlah class Percobaan1.java untuk menjalankan program diatas!
+
 ![screenshot](img/Percobaan1/3.PNG)
 
 4. Jalankan program diatas, kemudian amati apa yang terjadi!
+
 ![screenshot](img/Percobaan1/A.PNG)
 
 
@@ -66,15 +70,19 @@ Main Class Percobaan 1 : [Klik disini](../../src/6_Inheritance/Percobaan1/Percob
 ### Percobaan 2 (Hak Akses)
 
 1. Buatlah sebuah class parent/superclass dengan nama ClassA.java
+
 ![screenshot](img/Percobaan2/1.PNG)
 
 2. Buatlah sebuah class anak/subclass dengan nama ClassB.java
+
 ![screenshot](img/Percobaan2/2.PNG)
 
 3. Buatlah class Percobaan2.java untuk menjalankan program diatas!
+
 ![screenshot](img/Percobaan2/3.PNG)
 
 4. Jalankan program diatas, kemudian amati apa yang terjadi!
+
 ![screenshot](img/Percobaan2/A.PNG)
 
 
@@ -117,15 +125,19 @@ Main Class Percobaan 2 : [Klik disini](../../src/6_Inheritance/Pertanyaan2/Perco
 ### Percobaan 3 (Super)
 
 1. Buatlah sebuah class parent/superclass dengan nama Bangun.java
+
 ![screenshot](img/Percobaan3/1.PNG)
 
 2. Buatlah sebuah class anak/subclass dengan nama Tabung.java
+
 ![screenshot](img/Percobaan3/2.PNG)
 
 3. Buatlah class Percobaan3.java untuk menjalankan program diatas!
+
 ![screenshot](img/Percobaan3/3.PNG)
 
 4. Jalankan program diatas, kemudian amati apa yang terjadi!
+
 ![screenshot](img/Percobaan3/A.PNG)
 
 

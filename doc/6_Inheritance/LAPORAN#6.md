@@ -267,7 +267,7 @@ Main Class Percobaan 4  : [Klik disini](../../src/6_Inheritance/Percobaan4/Perco
 
     Jawab:
 
-    ![screenshot](img/Pertanyaan4/2.PNG)
+    ![screenshot](img/Pertanyaan4/2.png)
 
     ![screenshot](img/Pertanyaan4/3.PNG)
 

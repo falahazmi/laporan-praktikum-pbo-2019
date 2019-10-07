@@ -13,42 +13,44 @@ Setelah menempuh pokok bahasan ini, mahasiswa mampu:
 
 ### 1. Pendahuluan
 
-    Inharitance adalah salah satu ciri utama dalam bahasa pemrograman yang berorientasi pada objek. Inti dari Inharitance yaitu bersifat reusable dengan konspe OOP dimana setiap "sub-class" akan 'mewarisi' sifat dari "super-class" selama menggunakan Akses Modifier berupa protected atau public.
+Inharitance adalah salah satu ciri utama dalam bahasa pemrograman yang berorientasi pada objek. Inti dari Inharitance yaitu bersifat reusable dengan konspe OOP dimana setiap "sub-class" akan 'mewarisi' sifat dari "super-class" selama menggunakan Akses Modifier berupa protected atau public.
 
-    Ada 2 istilah dalam inharitance yaitu "base-class/super-class/parent-class" merupakan kelas yang menurukan sifatnya dan "derived-class/sub-class/child-class" merupakan kelas yang mendapatkan turunan sifat.
+Ada 2 istilah dalam inharitance yaitu "base-class/super-class/parent-class" merupakan kelas yang menurukan sifatnya dan "derived-class/sub-class/child-class" merupakan kelas yang mendapatkan turunan sifat.
 
-    Deklarasi sub-class menguunakan kata kunci "extends" yang terletak setelah deklarasi nama kelas. Kata kunci tersebut membritahu kompiler Java bahwa kita ingin melakukan pemganggilan serta perluasan class.
+Deklarasi sub-class menguunakan kata kunci "extends" yang terletak setelah deklarasi nama kelas. Kata kunci tersebut membritahu kompiler Java bahwa kita ingin melakukan pemganggilan serta perluasan class.
 
 ### Macam-macam Karakteristik (super-class)
 
 1. Single Inheritance
-    Suatu class yang hanya memiliki 1 class-parent.
 
-    ![screenshot](img/RM/1.PNG)
+Suatu class yang hanya memiliki 1 class-parent.
 
-    dari gambar di atas kita mengetahui bahwa "ClassB" merupakan 'subclass' yang hanya mempunya 1 'parent-class' yaitu "ClassA'.
+![screenshot](img/RM/1.PNG)
+
+dari gambar di atas kita mengetahui bahwa "ClassB" merupakan 'subclass' yang hanya mempunya 1 'parent-class' yaitu "ClassA'.
 
 2. Multileve Inheritance
-    Dimana suatu 'subc-class' menjadi 'super-clss' bagi class lain.
 
-    ![screenshot](img/RM/2.PNG)
+Dimana suatu 'subc-class' menjadi 'super-clss' bagi class lain.
 
-    dari gambar di atas kita dapat mengamati bahawa ClassA merupakan 'super-class' bagi ClassB dimana disni merupakan 'sub-class' bagi ClassA dan ClassB merupakan 'super-class' bagi ClassC yang merupakan 'subc-class' bagi ClassB.
+![screenshot](img/RM/2.PNG)
+
+dari gambar di atas kita dapat mengamati bahawa ClassA merupakan 'super-class' bagi ClassB dimana disni merupakan 'sub-class' bagi ClassA dan ClassB merupakan 'super-class' bagi ClassC yang merupakan 'subc-class' bagi ClassB.
 
 ### Format Penulisan Kata Kunci Super
 
 #### super.namaAtribut
-    Merujuk/meng-akses atribut dari parent class/superclass.
+Merujuk/meng-akses atribut dari parent class/superclass.
 
 #### super.namaMethod
-    Merujuk/meng-akses method dari parent class/superclass.
+Merujuk/meng-akses method dari parent class/superclass.
 
 #### super()
-    Merujuk/meng-akses konstruktor dari parent class/superclass.
+Merujuk/meng-akses konstruktor dari parent class/superclass.
     (hanya bisa digunakan dibaris pertama dalam konstruktor)
 
 #### super(paramater1,dst)
-    Merujuk/meng-akses konstruktor berparameter dari parent class/superclass.
+Merujuk/meng-akses konstruktor berparameter dari parent class/superclass.
 
 ## Percobaan
 

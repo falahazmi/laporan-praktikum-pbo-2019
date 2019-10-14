@@ -29,39 +29,39 @@ Dimana harus memiliki kesamaan dari subclass terhadap super class :
 
 Untuk kasus contoh berikut terdapat tigas class, yaitu karyawan, manager, dan staff. class karyawan merupakan cuperclass dari manager dan staff dimana subclass manager dan staff memiliki method untuk menghitung gaji yang berbeda.
 
-![percobaan](img/percobaan/A.png)
+![percobaan](img/percobaan/A.PNG)
 
 Tuliskan kode program berikut :
 
-![percobaan](img/percobaan/A.png)
+![percobaan](img/percobaan/A.PNG)
 
 ### 3.2 Karyawan
 
-![percobaan](img/percobaan/B.png)
+![percobaan](img/percobaan/B.PNG)
 
 ### 3.3 Staff
 
-![percobaan](img/percobaan/C.png)
+![percobaan](img/percobaan/C.PNG)
 
 ### 3.4 Manager
 
-![percobaan](img/percobaan/D.png)
+![percobaan](img/percobaan/D.PNG)
 
 ### 3.5 Utama
 
-![percobaan](img/percobaan/E1.png)
-![percobaan](img/percobaan/E2.png)
+![percobaan](img/percobaan/E1.PNG)
+![percobaan](img/percobaan/E2.PNG)
 
 Di Netbean :
 
-![percobaan](img/percobaan/1.png)
-![percobaan](img/percobaan/2.png)
-![percobaan](img/percobaan/3.png)
-![percobaan](img/percobaan/4.png)
+![percobaan](img/percobaan/1.PNG)
+![percobaan](img/percobaan/2.PNG)
+![percobaan](img/percobaan/3.PNG)
+![percobaan](img/percobaan/4.PNG)
 
 Output :
 
-![percobaan](img/percobaan/5.png)
+![percobaan](img/percobaan/5.PNG)
 
 link Class Karyawan : 
 [Klik Disini](../../src/7_Overriding_dan_Overloading/percobaan/Karyawan1841720085Falaah.java)
@@ -79,7 +79,7 @@ link Class Utama :
 ## - Overloading -
 ### Soal 1
 
-![latihan1](img/latihan1/1.png)
+![latihan1](img/latihan1/1.PNG)
 
 link Class PerkalianKu : 
 [Klik Disini](../../src/7_Overriding_dan_Overloading/latihan1/PerkalianKu1841720085Falaah.java)
@@ -87,14 +87,14 @@ link Class PerkalianKu :
 4.1 Dari source coding diatas terletak dimanakah overloading ?
 > jawab : 
 
-![latihan1](img/latihan1/2.png)
+![latihan1](img/latihan1/2.PNG)
 
 4.2 Jika terdapat overloading ada berapa jumlah parameter yag berbeda.
 > jawab : ada 1 parameter yang berbeda yaitu int c.
 
 #### Soal 2
 
-![latihan2](img/latihan2/1.png)
+![latihan2](img/latihan2/1.PNG)
 
 link Class PerkalianKu : 
 [Klik Disini](../../src/7_Overriding_dan_Overloading/latihan2/PerkalianKu1841720085Falaah.java)
@@ -103,7 +103,7 @@ link Class PerkalianKu :
 4.3 Dari source coding diatas terletak dimanakah overloading?
 > jawab : 
 
-![latihan2](img/latihan2/2.png)
+![latihan2](img/latihan2/2.PNG)
 
 4.4 Jika terdapat overloading ada berapa tipe parameter yang berbeda ?
 > jawab : terdapat 4 parameter berbeda yaitu int a, int b, doublr a, double b.
@@ -111,12 +111,12 @@ link Class PerkalianKu :
 ## - Overriding -
 ### Soal 1
 
-![latihan3](img/latihan3/1.png)
+![latihan3](img/latihan3/1.PNG)
 
 4.5 Dari source coding diatas terletak dimanakah overriding ? 
 > jawab : 
 
-![latihan3](img/latihan3/2.png)
+![latihan3](img/latihan3/2.PNG)
 
 4.6 Jabarkan apabila sourcoding diatas jika terdapat overriding? 
 > jawab : Deklarasi method pada subclass Piranha1841720085Falaah sama dengan method superclass Ikan1841720085Falaah
@@ -128,12 +128,12 @@ link Class PerkalianKu :
 
 Implementasikan konsep overloading pada class diagram dibawah ini :
 
-![Tugas](img/tugas/01.png)
+![Tugas](img/tugas/01.PNG)
 
 Jawab :
 
-![Tugas](img/tugas/A.png)
-![Tugas](img/tugas/B.png)
+![Tugas](img/tugas/A.PNG)
+![Tugas](img/tugas/B.PNG)
 
 link Class Segitiga : 
 [Klik Disini](../../src/7_Overriding_dan_Overloading/tugas/overloading/Segitiga1841720085Falaah.java)
@@ -146,26 +146,26 @@ link Class Main Segitiga :
 
 Implementasikan class diagram dibawah ini dengan menggunakan teknik dynamic method dispatch :
 
-![Tugas](img/tugas/02.png)
+![Tugas](img/tugas/02.PNG)
 
 Jawab :
 
-![Tugas](img/tugas/1.png)
+![Tugas](img/tugas/1.PNG)
 
 linkClass Manusia : 
 [Klik Disini](../../src/7_Overriding_dan_Overloading/tugas/overriding/Manusia1841720085Falaah.java)
 
-![Tugas](img/tugas/2.png)
+![Tugas](img/tugas/2.PNG)
 
 link Class Dosen : 
 [Klik Disini](../../src/7_Overriding_dan_Overloading/tugas/overriding/Dosen1841720085Falaah.java)
 
-![Tugas](img/tugas/3.png)
+![Tugas](img/tugas/3.PNG)
 
 link Class Mahasiswa : 
 [Klik Disini](../../src/7_Overriding_dan_Overloading/tugas/overriding/Mahasiswa1841720085Falaah.java)
 
-![Tugas](img/tugas/4.png)
+![Tugas](img/tugas/4.PNG)
 
 link kode program : 
 [Klik Disini](../../src/7_Overriding_dan_Overloading/tugas/overriding/MainManusia1841720085Falaah.java)

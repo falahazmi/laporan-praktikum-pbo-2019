@@ -152,20 +152,20 @@ Jawab :
 
 ![Tugas](img/tugas/1.PNG)
 
+![Tugas](img/tugas/2.PNG)
+
+![Tugas](img/tugas/3.PNG)
+
+![Tugas](img/tugas/4.PNG)
+
 linkClass Manusia : 
 [Klik Disini](../../src/7_Overriding_dan_Overloading/tugas/overriding/Manusia1841720085Falaah.java)
-
-![Tugas](img/tugas/2.PNG)
 
 link Class Dosen : 
 [Klik Disini](../../src/7_Overriding_dan_Overloading/tugas/overriding/Dosen1841720085Falaah.java)
 
-![Tugas](img/tugas/3.PNG)
-
 link Class Mahasiswa : 
 [Klik Disini](../../src/7_Overriding_dan_Overloading/tugas/overriding/Mahasiswa1841720085Falaah.java)
-
-![Tugas](img/tugas/4.PNG)
 
 link kode program : 
 [Klik Disini](../../src/7_Overriding_dan_Overloading/tugas/overriding/MainManusia1841720085Falaah.java)

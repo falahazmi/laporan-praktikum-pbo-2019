@@ -167,7 +167,7 @@ link Class Dosen :
 link Class Mahasiswa : 
 [Klik Disini](../../src/7_Overriding_dan_Overloading/tugas/overriding/Mahasiswa1841720085Falaah.java)
 
-link kode program : 
+link Class Main : 
 [Klik Disini](../../src/7_Overriding_dan_Overloading/tugas/overriding/MainManusia1841720085Falaah.java)
 
 

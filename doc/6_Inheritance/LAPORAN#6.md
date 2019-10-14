@@ -89,7 +89,7 @@ Main Class Percobaan 1  : [Klik disini](../../src/6_Inheritance/Percobaan1/Perco
     Jawab:
 
 
-    ![screenshot](img/Pertanyaan1/1.PNG)
+    ![screenshot](img/Pertanyaan1/1.png)
 
     ClassA                  : [Klik disini](../../src/6_Inheritance/Pertanyaan1/ClassA1841720085Falaah.java)
 
@@ -267,7 +267,7 @@ Main Class Percobaan 4  : [Klik disini](../../src/6_Inheritance/Percobaan4/Perco
 
     Jawab:
 
-    ![screenshot](img/Pertanyaan4/2.PNG)
+    ![screenshot](img/Pertanyaan4/2.png)
 
     ![screenshot](img/Pertanyaan4/3.PNG)
 
@@ -408,7 +408,7 @@ Main Class Inheritance 1    : [Klik disini](../../src/6_Inheritance/Percobaan6/I
 
     Jawab:
 
-    ![contoh screenshot](img/Pertanyaan6/1.PNG)
+    ![contoh screenshot](img/Pertanyaan6/1.png)
 
     Kotak merah merupakan single inheritance yang mana class Manager dan Staff hanya merujuk ke 1 super class yaitu Karyawan.
 

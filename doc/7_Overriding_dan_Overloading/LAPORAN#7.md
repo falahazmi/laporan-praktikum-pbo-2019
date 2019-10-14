@@ -87,7 +87,7 @@ link Class PerkalianKu :
 4.1 Dari source coding diatas terletak dimanakah overloading ?
 > jawab : 
 
-![latihan1](img/latihan1/2.PNG)
+![latihan1](img/latihan1/2.png)
 
 4.2 Jika terdapat overloading ada berapa jumlah parameter yag berbeda.
 > jawab : ada 1 parameter yang berbeda yaitu int c.
@@ -103,7 +103,7 @@ link Class PerkalianKu :
 4.3 Dari source coding diatas terletak dimanakah overloading?
 > jawab : 
 
-![latihan2](img/latihan2/2.PNG)
+![latihan2](img/latihan2/2.png)
 
 4.4 Jika terdapat overloading ada berapa tipe parameter yang berbeda ?
 > jawab : terdapat 4 parameter berbeda yaitu int a, int b, doublr a, double b.
@@ -116,7 +116,7 @@ link Class PerkalianKu :
 4.5 Dari source coding diatas terletak dimanakah overriding ? 
 > jawab : 
 
-![latihan3](img/latihan3/2.PNG)
+![latihan3](img/latihan3/2.png)
 
 4.6 Jabarkan apabila sourcoding diatas jika terdapat overriding? 
 > jawab : Deklarasi method pada subclass Piranha1841720085Falaah sama dengan method superclass Ikan1841720085Falaah

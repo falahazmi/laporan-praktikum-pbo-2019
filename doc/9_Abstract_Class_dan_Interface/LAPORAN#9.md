@@ -154,7 +154,7 @@ Bayangkan pada skenario sebelumnya, dimana seorang rektor juga akan memberiSerti
 Kode Program IBerprestasi: [Klik disini](../../src/9_Abstract_Class_dan_Interface/interface/percobaan3/IBerprestasi1841720085Falaah.java)
 
 
-Kode Program ICumlaude: [Klik disini](../../src/9_Abstract_Class_dan_Interface/interface/percobaan3/Icumlaude1841720085Falaah.java)
+Kode Program ICumlaude: [Klik disini](../../src/9_Abstract_Class_dan_Interface/interface/percobaan3/ICumlaude1841720085Falaah.java)
 
 
 Kode Program Mahasiswa : [Klik disini](../../src/9_Abstract_Class_dan_Interface/interface/percobaan3/Mahasiswa1841720085Falaah.java)

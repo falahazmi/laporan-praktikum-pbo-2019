@@ -80,7 +80,7 @@ Jawab:
 
 Tidak boleh, karena misalnya pada class Kucing. Dia meng-extends class Hewan, dimana terdapat method abstract “bergerak”. Sehingga pada class kucing harus diimplementasikan method abstract tersebut. 
 
-![screenshot](img/abstract/2.PNG)
+![screenshot](img/abstract/2.png)
 
 
 ## Percobaan 2 : Interface

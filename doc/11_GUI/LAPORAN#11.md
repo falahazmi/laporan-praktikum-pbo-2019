@@ -207,4 +207,4 @@ Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektua
 
 Ttd,
 
-***(Muhammad Falaah Azmi***
+***(Muhammad Falaah Azmi)***

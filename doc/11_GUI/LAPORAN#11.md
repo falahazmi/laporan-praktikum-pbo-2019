@@ -147,8 +147,10 @@ menampilkan hasil penambahan dari nilai A dan B
         info += "Mata Kuliah      : " + matakuliah + "\n";
         info += "Alamat       : " + alamat + "\n";
         hasil.setText(info);
-        JOptionPane.showMessageDialog(null, info);
-    }                                     
+        if (txtalamat.getText().equals("")) {
+            JOptionPane.showMessageDialog(null, "Alamat Masih Kosong");
+        }
+    }                                          
 
     ```
 
